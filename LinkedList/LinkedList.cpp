@@ -682,45 +682,25 @@ int main(){
     LinkedList l2;
 
     myLinkedList.add(0, 1);
-   // myLinkedList.DeleteSmallest();
-  myLinkedList.add(1, 2);
-  myLinkedList.add(2, 3);
-  myLinkedList.add(3, 4);
-  myLinkedList.add(4, 5);
-  myLinkedList.add(5, 3);
-  myLinkedList.add(6, 6);
-  myLinkedList.add(7, 1);
- // myLinkedList.add(8, 1);
+    // myLinkedList.DeleteSmallest();
+    myLinkedList.add(1, 2);
+    myLinkedList.add(2, 3);
+    myLinkedList.add(3, 4);
+    myLinkedList.add(4, 5);
+    myLinkedList.add(5, 3);
+    myLinkedList.add(6, 6);
+    myLinkedList.add(7, 1);
 
-myLinkedList.isPalindrome();
-
-//   l2.add(0, 7);
-//   l2.add(1, 6);
-//   l2.add(2, 5);
-//   l2.add(3, 99);
-//   l2.add(4, 150);
-//   l2.add(5, 360);
-  // myLinkedList.add(1, 1);
-
-    //myLinkedList.add(5, 1);
+    myLinkedList.isPalindrome();
     //myLinkedList.deleteDuplicates();
-//LinkedList l3 = myLinkedList.insertNodesatAlternatePos(l2);
+    //LinkedList l3 = myLinkedList.insertNodesatAlternatePos(l2);
 
     //myLinkedList.swapNodes(0, 0);
-    //cout << myLinkedList.first->value<<endl;
-    // l3.display();
-    //myLinkedList.display(); 
     //myLinkedList.Frequency();
-  //  myLinkedList.isPalindrome();
+    //myLinkedList.isPalindrome();
     //myLinkedList.removeindex(5);
     //myLinkedList.display();
-    //cout << myLinkedList.last->value << endl;
-   // cout <<myLinkedList.size();
-   // myLinkedList.display();
  
-
-    
-//int arr[2][2];
     return 0;
 
 }
